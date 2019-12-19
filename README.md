@@ -1,0 +1,2 @@
+# SudokuSolver
+Handmade Sudoku Solver. 
