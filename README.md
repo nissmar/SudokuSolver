@@ -1,2 +1,2 @@
 # SudokuSolver
-Handmade Sudoku Solver. 
+This is a handmade Sudoku Solver written in Python.
